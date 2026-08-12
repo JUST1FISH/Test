@@ -1,7 +1,7 @@
 just test
 dev add something
-<<<<<<<HEAD
+<<<<<<< HEAD
 The real difficulty is to overcome
 =======
 The real difficult
->>>>>>>Test
+>>>>>>> Test
